@@ -10,3 +10,4 @@ jobs:
       - run: |
           chmod +x aje.sh
           ./aje.sh
+          
